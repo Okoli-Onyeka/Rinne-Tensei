@@ -4,4 +4,4 @@ This is my first git project
 
 This is a bad edit
 
-This is a special feature to be added
+No special feature will be added
